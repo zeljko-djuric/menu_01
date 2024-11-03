@@ -204,7 +204,7 @@
     "id": "26",
     "displayName": "Pohovana šnicla",
     "type": "ostala_jela",
-    "price": ["5.00 KM"],
+    "price": ["9.00 KM"],
     "description": "Pileći file, krompirići, sos i pogačice",
     "image": "/images/coffee/pohovana_snicla.png"
   },
@@ -212,7 +212,7 @@
     "id": "27",
     "displayName": "Chicken nuggets",
     "type": "ostala_jela",
-    "price": ["5.00 KM"],
+    "price": ["10.00 KM"],
     "description": "Piletina u susamu, tartar sos i pogačice",
     "image": "/images/coffee/nuggets.png"
   },
@@ -220,7 +220,7 @@
     "id": "28",
     "displayName": "Plata kobasica",
     "type": "ostala_jela",
-    "price": ["5.00 KM"],
+    "price": ["25.00 KM"],
     "description": "4 vrste kobasica, krompirići, dva sosa i pogačice",
     "image": "/images/coffee/kobaje.png"
   }
