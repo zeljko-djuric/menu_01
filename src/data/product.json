@@ -1,0 +1,227 @@
+[
+ 
+  {
+    "id": "1",
+    "displayName": "Mozzart",
+    "type": "hot",
+    "price": ["3.50 KM"," 9.50 KM"," 12.00 KM"],
+    "description": "Paradajz pelat, šunka, sir, slanina, kobasica i ljuti feferoni",
+    "image": "/images/coffee/mozzart-pizza.png"
+  },
+  {
+    "id": "2",
+    "displayName": "Capricciosa",
+    "type": "hot",
+    "price": ["3.50 KM"," 9.50 KM"," 12.00 KM"],
+    "description": "Paradajz pelat, sir, šunka i šampinjoni",
+    "image": "/images/coffee/kapricoza.png"
+  },
+  {
+    "id": "3",
+    "displayName": "Diavolo",
+    "type": "hot",
+    "price": ["3.50 KM", " 9.50", " 12.00 KM"],
+    "description": "Paradajz pelat, sir, kobasica i ljuti feferoni",
+    "image": "/images/coffee/diavolo.png"
+  },
+  {
+    "id": "4",
+    "displayName": "Margherita",
+    "type": "hot",
+    "price": ["3.50 KM"," 9.50 KM"," 12.00 KM"],
+    "description": "Paradajz pelat i sir",
+    "image": "/images/coffee/margarita.png"
+  },
+  {
+    "id": "5",
+    "displayName": "Gurmanska",
+    "type": "hot",
+    "price": ["-", " 10.00 KM", " 12.00 KM"],
+    "description": "Paradajz pelat, sir, šunka, suvi vrat, pršuta i šampinjoni",
+    "image": "/images/coffee/gurmanska.png"
+  },
+  {
+    "id": "6",
+    "displayName": "Napolitana",
+    "type": "hot",
+    "price": ["-", " 10.00 KM", " 12.00 KM"],
+    "description": "Paradajz pelat, sir, šunka, šampinjoni, pavlaka i jaje",
+    "image": "/images/coffee/picoka.png"
+  },
+  {
+    "id": "7",
+    "displayName": "Prosciutto",
+    "type": "hot",
+    "price": ["3.50 KM"," 9.50 KM"," 12.00 KM"],
+    "description": "Paradajz pelat, sir i šunka",
+    "image": "/images/coffee/kapricoza.png"
+  },
+  {
+    "id": "8",
+    "displayName": "Vegeteriana",
+    "type": "hot",
+    "price": ["3.50 KM"," 9.50 KM"," 12.00 KM"],
+    "description": "Paradajz pelat, sir i povrće",
+    "image": "/images/coffee/vegeterijana.png"
+  },
+  {
+    "id": "9",
+    "displayName": "Fantasia",
+    "type": "hot",
+    "price": ["3.50 KM"," 9.50 KM"," 12.00 KM"],
+    "description": "Paradajz pelat, sir, salama i šampinjoni",
+    "image": "/images/coffee/kapricoza.png"
+  },
+  {
+    "id": "10",
+    "displayName": "Marinara",
+    "type": "hot",
+    "price": ["3.50 KM"," 9.50 KM"," 12.00 KM"],
+    "description": "Paradajz pelat, sir, tunjevina i šampinjoni",
+    "image": "/images/coffee/marinara.png"
+  },
+  {
+    "id": "11",
+    "displayName": "Tonzo",
+    "type": "hot",
+    "price": ["3.50 KM"," 9.50 KM"," 12.00 KM"],
+    "description": "Paradajz pelat, sir, tunjevina, šampinjoni i crni luk",
+    "image": "/images/coffee/tonzo.png"
+  },
+  {
+    "id": "12",
+    "displayName": "Calzone",
+    "type": "hot",
+    "price": ["3.50 KM"," 9.50 KM"," 12.00 KM"],
+    "description": "Paradajz pelat, sir, salama, šunka i crveni luk",
+    "image": "/images/coffee/calzone.png"
+  },
+  {
+    "id": "13",
+    "displayName": "Bio",
+    "type": "hot",
+    "price": ["3.50 KM"," 9.50 KM"," 12.00 KM"],
+    "description": "Paradajz pelat, sir, luk, kukuruz i paprika",
+    "image": "/images/coffee/bio.png"
+  },
+  {
+    "id": "14",
+    "displayName": "Posna pizza",
+    "type": "hot",
+    "price": ["3.50 KM"," 9.50 KM"," 12.00 KM"],
+    "description": "Paradajz pelat, posni sir i povrće ili šampinjoni",
+    "image": "/images/coffee/kapricoza.png"
+  },
+  {
+    "id": "15",
+    "displayName": "Bianca",
+    "type": "hot",
+    "price": ["-"," 10.00 KM"," 12.00 KM"],
+    "description": "Paradajz pelat, sir, pileći file i mirođija",
+    "image": "/images/coffee/bianca.png"
+  },
+  {
+    "id": "16",
+    "displayName": "Rolovana",
+    "type": "hot",
+    "price": ["-"," 10.00 KM"," 12.00 KM"],
+    "description": "Paradajz pelat, sir, šunka i šampinjoni",
+    "image": "/images/coffee/rolovana.png"
+  },
+  {
+    "id": "17",
+    "displayName": "Bavarska",
+    "type": "hot",
+    "price": ["-"," 10.00 KM"," 12.00 KM"],
+    "description": "Paradajz pelat, sir, bavarska kobasica i pavlaka",
+    "image": "/images/coffee/bavarska.png"
+  },
+  {
+    "id": "18",
+    "displayName": "Doručak 1",
+    "type": "iced",
+    "price": ["6.00 KM"],
+    "description": "Kajgana od troje jaja, kobasica, pavlaka i pogačice",
+    "image": "/images/coffee/dorucak-2.png"
+  },
+  {
+    "id": "19",
+    "displayName": "Pohovana palačinka",
+    "type": "iced",
+    "price": ["4.00 KM"],
+    "description": "Punjena sirom i šunkom",
+    "image": "/images/coffee/palacinka.png"
+  },
+  {
+    "id": "20",
+    "displayName": "Mozzart doručak",
+    "type": "iced",
+    "price": ["6.00 KM"],
+    "description": "Troje jaja na oko, pileći file, ajvar, pomfrit i pogačice",
+    "image": "/images/coffee/mozzart-dorucak.png"
+  },
+  {
+    "id": "21",
+    "displayName": "Šefov doručak",
+    "type": "iced",
+    "price": ["5.00 KM"],
+    "description": "Prženice sa dvoje kuvanih jaja, slanina, sir, pavlaka i pogačice",
+    "image": "/images/coffee/sefov.png"
+  },
+  {
+    "id": "22",
+    "displayName": "Gurmanski doručak",
+    "type": "iced",
+    "price": ["6.00 KM"],
+    "description": "Kobasica, dvoje jaja na oko, pomfrit, senf i pogačice",
+    "image": "/images/coffee/gurmanski.png"
+  },
+  {
+    "id": "23",
+    "displayName": "Omlet 1",
+    "type": "iced",
+    "price": ["5.00 KM"],
+    "description": "Omlet od troje jaja, slaninna, pavlaka i pogačice",
+    "image": "/images/coffee/omlet.png"
+  },
+  {
+    "id": "24",
+    "displayName": "Omlet 2",
+    "type": "iced",
+    "price": ["5.00 KM"],
+    "description": "Omlet od troje jaja, šunka, sir, pavlaka i pogačice",
+    "image": "/images/coffee/omlet.png"
+  },
+  {
+    "id": "25",
+    "displayName": "Piletina u gorgonzola sosu",
+    "type": "ostala_jela",
+    "price": ["11.00 KM"],
+    "description": "Pileći file, gorgonzola sos, prilog od krompira i pogačice",
+    "image": "/images/coffee/gorgonzola.png"
+  },
+  {
+    "id": "26",
+    "displayName": "Pohovana šnicla",
+    "type": "ostala_jela",
+    "price": ["5.00 KM"],
+    "description": "Pileći file, krompirići, sos i pogačice",
+    "image": "/images/coffee/pohovana_snicla.png"
+  },
+  {
+    "id": "27",
+    "displayName": "Chicken nuggets",
+    "type": "ostala_jela",
+    "price": ["5.00 KM"],
+    "description": "Piletina u susamu, tartar sos i pogačice",
+    "image": "/images/coffee/nuggets.png"
+  },
+  {
+    "id": "28",
+    "displayName": "Plata kobasica",
+    "type": "ostala_jela",
+    "price": ["5.00 KM"],
+    "description": "4 vrste kobasica, krompirići, dva sosa i pogačice",
+    "image": "/images/coffee/kobaje.png"
+  }
+]
